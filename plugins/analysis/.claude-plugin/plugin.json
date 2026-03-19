@@ -1,0 +1,10 @@
+{
+  "name": "narrative-engine-analysis",
+  "version": "1.0.0",
+  "description": "Deep inspection tools: multi-agent audits, tech debt scanning, and research scanning.",
+  "author": {
+    "name": "David Rickmann"
+  },
+  "repository": "https://github.com/DavidRickmann/NarrativeEngine-Skills",
+  "license": "MIT"
+}

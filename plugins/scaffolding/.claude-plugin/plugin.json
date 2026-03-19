@@ -1,0 +1,10 @@
+{
+  "name": "narrative-engine-scaffolding",
+  "version": "1.0.0",
+  "description": "Project initialization that detects your stack and scaffolds CLAUDE.md and context structure.",
+  "author": {
+    "name": "David Rickmann"
+  },
+  "repository": "https://github.com/DavidRickmann/NarrativeEngine-Skills",
+  "license": "MIT"
+}

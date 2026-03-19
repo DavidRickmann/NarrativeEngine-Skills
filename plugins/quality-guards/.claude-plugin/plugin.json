@@ -1,0 +1,10 @@
+{
+  "name": "narrative-engine-quality-guards",
+  "version": "1.0.0",
+  "description": "Auto-activating quality principles for code, research, sessions, and writing naturalness.",
+  "author": {
+    "name": "David Rickmann"
+  },
+  "repository": "https://github.com/DavidRickmann/NarrativeEngine-Skills",
+  "license": "MIT"
+}

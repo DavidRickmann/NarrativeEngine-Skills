@@ -1,0 +1,10 @@
+{
+  "name": "narrative-engine-lifecycle",
+  "version": "1.0.0",
+  "description": "The core workflow arc: prime, plan, build, review, reflect, archive.",
+  "author": {
+    "name": "David Rickmann"
+  },
+  "repository": "https://github.com/DavidRickmann/NarrativeEngine-Skills",
+  "license": "MIT"
+}

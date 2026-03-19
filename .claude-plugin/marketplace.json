@@ -1,0 +1,49 @@
+{
+  "name": "narrative-engine",
+  "owner": {
+    "name": "David Rickmann"
+  },
+  "metadata": {
+    "description": "An opinionated Claude Code workflow system. Every coding session tells a story: orient, plan, build, review, reflect, archive.",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "narrative-engine-lifecycle",
+      "source": "./lifecycle",
+      "description": "The core workflow arc: prime, plan, build, review, reflect, archive. Seven skills that guide you through a complete coding session.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["workflow", "session", "planning", "review", "lifecycle"],
+      "category": "productivity"
+    },
+    {
+      "name": "narrative-engine-scaffolding",
+      "source": "./scaffolding",
+      "description": "Project initialization that detects your stack and generates CLAUDE.md, context directory, and workflow scaffolding.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["init", "scaffold", "setup", "project"],
+      "category": "productivity"
+    },
+    {
+      "name": "narrative-engine-analysis",
+      "source": "./analysis",
+      "description": "Deep inspection tools: multi-agent code audits, tech debt scanning, and periodic research scanning.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["audit", "security", "techdebt", "analysis", "research"],
+      "category": "code-quality"
+    },
+    {
+      "name": "narrative-engine-quality-guards",
+      "source": "./quality-guards",
+      "description": "Auto-activating quality principles: code quality, research methodology, session management, and AI writing detection.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "keywords": ["quality", "auto", "standards", "writing", "methodology"],
+      "category": "code-quality"
+    }
+  ]
+}
