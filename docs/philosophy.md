@@ -2,7 +2,7 @@
 
 ## Why an opinionated workflow?
 
-Most Claude Code skill collections are grab bags. Install 50 skills, use 3 of them, forget the rest exist. That's not a system - it's clutter.
+Most Claude Code skill collections are grab bags. Install 50 skills, use 3 of them, forget the rest exist. Clutter with a package manager.
 
 Narrative Engine is opinionated because opinions are what make a workflow repeatable. When you don't have to decide _how_ to start a session, you just start. When the review step is built into the arc, you don't skip it because you're tired. The structure frees you from decision fatigue so you can focus on the actual problem.
 
