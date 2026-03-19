@@ -1,6 +1,6 @@
 # Narrative Engine
 
-An opinionated Claude Code workflow system built from months of daily use. This isn't a skills marketplace or a grab bag of prompts. It's how I actually work - a complete session lifecycle that compounds knowledge over time.
+An opinionated Claude Code workflow system built from months of daily use. A complete session lifecycle that compounds knowledge over time.
 
 Every coding session tells a story: orient, plan, build, review, reflect, archive.
 
@@ -20,7 +20,7 @@ Every coding session tells a story: orient, plan, build, review, reflect, archiv
    /archive ....... preserve context for next time
 ```
 
-Quality guards run underneath the whole arc - automatically activating when you write code, research topics, or produce text.
+Quality guards run underneath the whole arc, automatically activating when you write code, research topics, or produce text.
 
 ## Install
 
