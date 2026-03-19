@@ -1,6 +1,6 @@
 # Narrative Engine
 
-An opinionated Claude Code workflow system built from months of daily use. One person's actual working setup - a complete session lifecycle that compounds knowledge over time.
+An opinionated Claude Code workflow system which compounds knowledge over time.
 
 Every coding session tells a story: orient, plan, build, review, reflect, archive.
 
